@@ -1,0 +1,14 @@
+C:\Users\mardin\Desktop\home interface\bin\Debug\net9.0\home interface.exe
+C:\Users\mardin\Desktop\home interface\bin\Debug\net9.0\home interface.deps.json
+C:\Users\mardin\Desktop\home interface\bin\Debug\net9.0\home interface.runtimeconfig.json
+C:\Users\mardin\Desktop\home interface\bin\Debug\net9.0\home interface.dll
+C:\Users\mardin\Desktop\home interface\bin\Debug\net9.0\home interface.pdb
+C:\Users\mardin\Desktop\home interface\obj\Debug\net9.0\home interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin\Desktop\home interface\obj\Debug\net9.0\home interface.AssemblyInfoInputs.cache
+C:\Users\mardin\Desktop\home interface\obj\Debug\net9.0\home interface.AssemblyInfo.cs
+C:\Users\mardin\Desktop\home interface\obj\Debug\net9.0\home interface.csproj.CoreCompileInputs.cache
+C:\Users\mardin\Desktop\home interface\obj\Debug\net9.0\home interface.dll
+C:\Users\mardin\Desktop\home interface\obj\Debug\net9.0\refint\home interface.dll
+C:\Users\mardin\Desktop\home interface\obj\Debug\net9.0\home interface.pdb
+C:\Users\mardin\Desktop\home interface\obj\Debug\net9.0\home interface.genruntimeconfig.cache
+C:\Users\mardin\Desktop\home interface\obj\Debug\net9.0\ref\home interface.dll

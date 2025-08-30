@@ -1,0 +1,4 @@
+ interface Readable
+{
+    void Read();
+}
